@@ -72,6 +72,9 @@
       "esbuild",
       "fs-xattr",
       "macos-alias"
+    ],
+    "ignoredBuiltDependencies": [
+      "@anthropic-ai/dxt"
     ]
   }
 }
